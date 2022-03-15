@@ -1,0 +1,334 @@
+
+
+header{
+    font-family: 'Oswald', sans-serif;
+    background-color:rgb(180, 7, 7);
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+    font-size:35px;
+    padding:10px;
+}
+
+#top{
+    letter-spacing:10px;
+}
+
+#navigation{
+    background-color: lightgrey;
+    padding:10px;
+    margin-bottom:10px;
+}
+
+#loginbtn{
+    background-color:crimson;
+    font-size:22px;
+    padding:5px;
+    color:white;
+}
+
+#signupbtn{
+    background-color:crimson;
+    font-size:22px;
+    padding:5px;
+    color:white;
+}
+
+a{
+    text-decoration:none;
+    text-align:left;
+}
+
+#navlinks{
+    padding:2px;
+}
+
+a:hover{
+    border: 2px solid white;
+}
+
+main{
+    border:5px solid lightgrey;
+    margin:auto;
+    padding:10px;
+    background:white;
+    width:95%;
+}
+
+main h2{
+   font-weight: bolder;
+   color: black;;
+}
+
+.homep{
+    font-size:23px;
+}
+
+.gfont{
+    text-align: right;
+    margin-right:15px;
+}
+
+#dune{
+    border:5px solid lightblue;
+    width:800px;
+    height:150px;
+}
+
+#dunead{
+    text-align:center;
+}
+
+#thg{
+    border:5px solid rgb(180, 7, 7);
+    padding:5px;
+}
+
+#hp{
+    border: 5px solid rgb(180, 7, 7);
+    margin-top: 5px;
+    padding:5px;
+    margin-bottom:5px;
+}
+
+#thg h2{
+    font-family: 'Oswald', sans-serif;
+    font-size:30px;
+}
+
+#hp h2{
+    font-family: 'Oswald', sans-serif;
+    font-size:30px;
+}
+
+#section1{
+    width:80%;
+}
+
+#section2{
+    width:20%
+}
+
+.writing{
+    width:35%;
+    margin-left:15px;
+}
+
+#poster{
+    justify-content: space-evenly;
+}
+
+#latest{
+    border:3px solid rgb(180, 7, 7);
+    font-family: 'Oswald', sans-serif;
+    padding:5px;
+}
+
+#latesttext{
+    flex-direction:row;
+    justify-content:space-around;
+}
+
+aside{
+    background-color:white;
+    border:5px solid rgb(180, 7, 7);
+    margin-left:5px;
+    text-align:center;
+    font-size:15px;
+    font-family: 'Oswald', sans-serif;
+    padding:6px;
+    margin-top:150px;
+    margin-bottom:150px;
+}
+
+.list{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#side{
+    border: 2px dashed lightgrey;
+    display:flex;
+    padding:5px;
+    justify-content: space-evenly;
+}
+
+aside p{
+    color:rgb(180, 7, 7);
+}
+
+aside h3{
+    font-weight: bolder;
+}
+
+footer{
+    background-color:rgb(180,7,7);
+    color:white;
+    text-align:center;
+    padding:10px;
+    font-family: 'Oswald', sans-serif;
+    margin-top:5px;
+}
+
+#hgheading{
+    font-family: 'Bank Gothic', sans-serif;
+    font-size:45px;
+    margin-left:10px;
+}
+
+#hpheading{
+    font-family: 'Harry Potter', sans-serif;
+    font-size:50px;
+    margin-left:10px;
+    margin-bottom:0%;
+}
+
+#hpheading2{
+    font-family: 'HarryPotter7', sans-serif;
+    font-size:15px;
+    margin:0%;
+}
+
+.screencap{
+    width:400px;
+    height:175px;
+    border-top: 2px dashed white; 
+    border-bottom: 2px dashed white; 
+}   
+
+#hsection1{
+    margin-bottom:10px;
+}
+
+.rating{
+    flex-direction:center;
+}
+
+.fav{
+   align-items: center;
+   justify-content:space-between;
+   margin-left:200px;
+   margin-right:100px;
+
+}
+
+#screencaps{
+    background-color: black;
+    padding:5px;
+    justify-content:space-evenly;
+}
+
+.poster{
+    width:25%;
+    margin-right:5px;
+}
+
+.text{
+    width:75%;
+    text-align:center;
+}
+
+.highest{
+    padding:10px;
+}
+
+#high{
+    flex-direction: column;
+}
+
+.highestposter{
+    width:25%;
+    border:4px solid black;
+}
+
+.highestwriting{
+    margin-left:15px;
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px;
+}
+
+#highestheading{
+    font-size:30px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 15px;
+    color:rgb(180,7,7);
+    font-weight: bolder;
+    text-align: center;
+}
+
+.red{
+    background-color:rgb(196, 69, 69);
+    color:white;
+}
+
+.cast{
+    padding:10px;
+    width:183px;
+    justify-content: space-evenly;
+    border: 3px solid black;
+}
+
+.italic{
+    font-style:italic;
+}
+
+#casth{
+    text-align: center;
+    border:4px solid rgb(180,7,7);
+}
+
+.castpic{
+    justify-content: space-evenly;
+    margin-top:10px;
+}
+
+.casttext{
+    text-align: center;
+}
+
+.series{
+    width:80%;
+    border:4px solid rgb(180,7,7);
+    padding:5px;
+}
+
+.thgfont{
+    font-family: 'Bank Gothic', sans-serif;
+}
+
+#thgfonthead{
+    font-size: 40px;
+}
+
+#hpfont{
+    font-family: 'Harry Potter', sans-serif; 
+    color:white; 
+    font-size: 40px;
+}
+
+.smallfont{
+    font-family: 'HarryPotter7', sans-serif;
+}
+
+.seriestext{
+    text-align:center;
+    background-color:darkgrey;
+    color:white;
+    padding:15px;
+}
+
+iframe{
+    width:65%;
+}
+
+.flex{
+    display:flex;
+}
+
+.flex1{
+    flex:1;
+}
+
+.fonttext{
+    font-family: 'Montserrat', sans-serif;
+}
